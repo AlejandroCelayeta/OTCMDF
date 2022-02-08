@@ -1,0 +1,8 @@
+@import './listas';
+
+/* Extends */
+
+%footer {
+    background-color: nth($color-footer, 2);
+    border:1px solid grey  ;
+}
